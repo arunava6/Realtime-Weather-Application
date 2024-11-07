@@ -36,3 +36,49 @@
     transform: rotate(360deg);
   }
 }
+
+/* Weather Condition Backgrounds */
+
+/* Cloudy Background */
+.clouds {
+  background-image: url('./image/dramatic-autumn-sky-stormy-clouds-600nw-2374757681.webp');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+/* Rainy Background */
+.rain {
+  background-image: url('./image/rainy.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+/* Clear Background */
+.clear {
+  background-image: url('./image/clear.jpg'); /* Replace with your clear sky image */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+/* Haze Background */
+.haze {
+  background-image: url('./image/haze.jpg'); /* Replace with your haze image */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+/* Mist Background */
+.mist {
+  background-image: url('./image/mist.jpg'); /* Replace with your mist image */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+
+
+
